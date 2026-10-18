@@ -9,3 +9,4 @@
 9. git commit: Staging alanındaki değişiklikleri kalıcı olarak kaydeder.
 10. git log: Projenin commit geçmişini listeler.
  #Hafta2 çalışma notları tamalandi
+ Hafta2 çalışma notları tamamlandı
