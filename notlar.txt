@@ -3,3 +3,8 @@
 3. uniq: Ardışık tekrar eden satırları tekilleştirir ve sayar.
 4. cut: Belirli bir ayraca göre sütunları ayıklar.
 5. sed: Akış üzerinde metin değiştirme ve silme işlemi yapar.
+6. git init: Yeni bir yerel git deposu başlatır.
+7. git status: Takip edilen ve edilmeyen dosya durumlarını gösterir.
+8. git add: Değişiklikleri staging alanına ekler.
+9. git commit: Staging alanındaki değişiklikleri kalıcı olarak kaydeder.
+10. git log: Projenin commit geçmişini listeler.
